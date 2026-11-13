@@ -24,7 +24,7 @@ source .venv/Scripts/activate    # Git Bash (Windows)
 # .venv\Scripts\Activate.ps1     # PowerShell (Windows)
 ```
 
-Le terminal doit afficher `(.venv)` au début de la ligne.
+Le terminal doit afficher `(.venv)` au début de la ligne
 
 **Installer les dépendances**
 
@@ -40,17 +40,17 @@ python -c "import nltk; nltk.download('brown')"
 
 ## Les données
  
-- rien à télécharger, les fichiers sont déjà dans `data/bible/`. 
+- rien à télécharger, les fichiers sont déjà dans `data/bible/`
 
 
 ## Organisation du dépôt
 
-- `src/` : le code.
-- `tests/` : les tests (`pytest`).
+- `src/` : le code
+- `tests/` : les tests
 - `data/` : les données
-- `figures/` : les figures générées.
+- `figures/` : les figures générées
 
 ## Important
 
-- `git pull` avant de commencer à travailler.
+- `git pull` avant de commencer à travailler
 
