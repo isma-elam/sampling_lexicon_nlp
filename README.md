@@ -2,8 +2,8 @@
 
 Projet de groupe d'*Introduction to Computational Linguistics and NLP*.
 
-- **Partie A** : loi de Zipf selon les langues et les tokenizers (corpus Bible multilingue).
-- **Partie B** : courbes de Heaps, burstiness et embeddings (corpus Brown).
+- **Partie A** : loi de Zipf (corpus Bible)
+- **Partie B** : courbes de Heaps, burstiness et embeddings (corpus Brown)
 
 ## Installation
 
@@ -52,5 +52,5 @@ python -c "import nltk; nltk.download('brown')"
 
 ## Important
 
-`git pull` avant de commencer à travailler.
+- `git pull` avant de commencer à travailler.
 
